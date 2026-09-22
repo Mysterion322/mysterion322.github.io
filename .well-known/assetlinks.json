@@ -1,0 +1,22 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ru.rn.ksed.kmp",
+      "sha256_cert_fingerprints": [
+        "39:BA:04:2B:09:88:31:C5:5D:C3:D1:E8:EB:F3:90:93:32:1C:66:12:F5:21:27:33:59:1C:B2:9B:63:1D:8C:C6"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ru.rnog.ksed.kmp",
+      "sha256_cert_fingerprints": [
+        "39:BA:04:2B:09:88:31:C5:5D:C3:D1:E8:EB:F3:90:93:32:1C:66:12:F5:21:27:33:59:1C:B2:9B:63:1D:8C:C6"
+      ]
+    }
+  }
+]
